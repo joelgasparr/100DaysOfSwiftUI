@@ -40,3 +40,4 @@ func travel(action: () -> Void){
 
 travel(action: Driving)
 
+print()
