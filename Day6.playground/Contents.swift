@@ -38,6 +38,3 @@ func travel(action: () -> Void){
     print("I arrived!")
 }
 
-travel(action: Driving)
-
-print()
